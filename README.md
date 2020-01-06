@@ -1,2 +1,2 @@
 # secondwebdesign
-second prctice
+second practice
