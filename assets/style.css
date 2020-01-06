@@ -1,0 +1,59 @@
+body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar {
+
+    height: 60px;
+    background-color: rgba(57, 142, 221, 0.658);
+}
+
+.navbar-toggler-icon {
+    color: blue;
+}
+
+.nav-link {
+    font-size: 18px;
+    color:blue;
+    font-weight: bold;
+}
+
+.container {
+    width: 1024;
+    margin-top: 40px;
+    background-color: rgb(203, 232, 250);
+    padding: 20px;
+    border: solid 2px;
+    border-color: #fff;
+}
+
+h4 {
+    text-align: center;
+    color:darkolivegreen;
+}
+
+p {
+    Margin-top: 40px;
+    font-size: 18px;
+    color: rgb(15, 11, 37);
+    
+}
+
+.card {
+    margin-top: 40px;
+}
+
+
+.footer {
+     position: absolute;
+     bottom: 0;
+     width: 100%;       
+}
+
+.lastline {
+    margin-top: 100px;
+    text-align: center;
+    background-color: rgb(108, 124, 143);
+}

@@ -1,2 +1,0 @@
-# secondwebdesign
-second practice
